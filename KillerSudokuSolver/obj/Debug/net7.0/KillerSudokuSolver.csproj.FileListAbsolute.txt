@@ -1,0 +1,15 @@
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\bin\Debug\net7.0\KillerSudokuSolver.exe
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\bin\Debug\net7.0\KillerSudokuSolver.deps.json
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\bin\Debug\net7.0\KillerSudokuSolver.runtimeconfig.json
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\bin\Debug\net7.0\KillerSudokuSolver.dll
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\bin\Debug\net7.0\KillerSudokuSolver.pdb
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\KillerSudokuSolver.csproj.AssemblyReference.cache
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\KillerSudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\KillerSudokuSolver.AssemblyInfoInputs.cache
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\KillerSudokuSolver.AssemblyInfo.cs
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\KillerSudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\KillerSudokuSolver.dll
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\refint\KillerSudokuSolver.dll
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\KillerSudokuSolver.pdb
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\KillerSudokuSolver.genruntimeconfig.cache
+C:\Users\noahd\RiderProjects\KillerSudoku\KillerSudokuSolver\obj\Debug\net7.0\ref\KillerSudokuSolver.dll
