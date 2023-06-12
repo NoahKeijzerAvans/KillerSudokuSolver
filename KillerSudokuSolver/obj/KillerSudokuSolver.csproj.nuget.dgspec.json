@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noahd\\RiderProjects\\KillerSudoku\\KillerSudokuSolver\\KillerSudokuSolver.csproj": {}
+    "D:\\source\\KillerSudokuSolver\\KillerSudokuSolver\\KillerSudokuSolver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noahd\\RiderProjects\\KillerSudoku\\KillerSudokuSolver\\KillerSudokuSolver.csproj": {
+    "D:\\source\\KillerSudokuSolver\\KillerSudokuSolver\\KillerSudokuSolver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noahd\\RiderProjects\\KillerSudoku\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
+        "projectUniqueName": "D:\\source\\KillerSudokuSolver\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
         "projectName": "KillerSudokuSolver",
-        "projectPath": "C:\\Users\\noahd\\RiderProjects\\KillerSudoku\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
+        "projectPath": "D:\\source\\KillerSudokuSolver\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
         "packagesPath": "C:\\Users\\noahd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noahd\\RiderProjects\\KillerSudoku\\KillerSudokuSolver\\obj\\",
+        "outputPath": "D:\\source\\KillerSudokuSolver\\KillerSudokuSolver\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\noahd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

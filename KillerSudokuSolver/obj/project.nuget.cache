@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QdknRwnTOWfV0i1ikBvuSWkSAGEOYJcJpnqsWJm3Zhqg8ntUchWYf/brMvxdLgMdrCTtgen3B6l+oeYZpgVb4w==",
+  "dgSpecHash": "jiORbozkgYJnZklukNx0l6YNVgILcqFupdAsmOb6T9A4CS/yFCcs7ss3Fs+oIRfo6F4ACuvfJ6FSaBH9SaoIaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noahd\\RiderProjects\\KillerSudoku\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
+  "projectFilePath": "D:\\source\\KillerSudokuSolver\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
